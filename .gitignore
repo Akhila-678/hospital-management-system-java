@@ -1,0 +1,16 @@
+# Ignore NetBeans build output and temporary files
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/nbproject/private/
+/nbproject/Makefile-*
+/*.class
+/*.jar
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
